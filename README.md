@@ -1,6 +1,7 @@
 # Netflix Revenue
 Analizing Netflix revenue of subscription bookings from 2021 to 2023. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/ren.d.vila.licona/viz/NetflixRevenue_17301404943970/Dashboard).
- ![Image Alt](https://github.com/rene-dl/Netflix_Revenue/blob/main/NetflixDashboard.png?raw=true)
+![Image Alt](https://github.com/rene-dl/Netflix_Revenue/blob/main/NetflixDashboard.png?raw=true) 
+ 
 # Metrics and Dimensions
 - **Suscription Type:** Basic, Standard or Premium.
 - **Country:** Australia, Brazil, Canada, France, Germany, Italy, Mexico, Spain, United Kingdom, United States.
