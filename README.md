@@ -14,7 +14,7 @@ Analizing Netflix revenue of subscription bookings from 2021 to 2023. Interactiv
 ### Subscription Type
 - In May 2022, subscriptions for the basic plan began to rise significantly, reaching a peak in July. Afterward, they fluctuated, reaching their highest in October before dropping sharply. The standard and premium plans showed similar patterns, although the standard plan peaked in July and did not see as much of an increase in October.
 
-### Countries
+### Country
 - The countries generating the most revenue are the United States and Spain, due to their larger user bases and the higher subscription rates in these markets.
 
 ### Age
