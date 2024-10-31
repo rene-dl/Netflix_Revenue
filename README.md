@@ -1,6 +1,8 @@
 # Netflix Revenue
 
-Netflix, launched in 2007, is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. This project analyzes Netflix revenue of subscription bookings from 2021 to 2023. 
+Netflix, launched in 2007, is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. 
+
+This project involved data analysis and visualization of Netflix subscriptions from 2021-2023. I analyzed the revenue by subscription type, country, age and device, creating interactive visuals to highlight key patterns and insights.
 
 Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/ren.d.vila.licona/viz/NetflixRevenue_17301404943970/Dashboard).
 
