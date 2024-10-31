@@ -1,5 +1,8 @@
 # Netflix Revenue
-Analizing Netflix revenue of subscription bookings from 2021 to 2023. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/ren.d.vila.licona/viz/NetflixRevenue_17301404943970/Dashboard).
+
+Netflix, launched in 2007, is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. This project analyzes Netflix revenue of subscription bookings from 2021 to 2023. 
+
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/ren.d.vila.licona/viz/NetflixRevenue_17301404943970/Dashboard).
 
 ![Image Alt](https://github.com/rene-dl/Netflix_Revenue/blob/main/NetflixDashboard.png?raw=true) 
 
@@ -26,6 +29,8 @@ Analizing Netflix revenue of subscription bookings from 2021 to 2023. Interactiv
 # Recommendations
 
 - Investigate the reasons behind the significant increase in subscriptions from May to October 2022, followed by a sharp drop, to determine if this was due to product issues or market competition.
+
 - Analyze the high performance in the United States and Spain to identify if marketing strategies, specific features, or promotions can be applied to other countries to boost revenue.
+
 - Collaborate with the marketing team to reach more users under 25 and assess the viability of attracting users over 50.
 
