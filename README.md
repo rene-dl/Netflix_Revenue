@@ -1,6 +1,6 @@
 # Netflix Revenue
 
-Netflix, launched in 2007, is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. 
+Netflix, launched in 2007, is an american subscription video on demand over the top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. 
 
 This project involved data analysis and visualization of Netflix subscriptions from 2021-2023. I analyzed the revenue by subscription type, country, age and device, creating interactive visuals to highlight key patterns and insights.
 
