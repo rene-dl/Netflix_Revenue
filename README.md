@@ -6,6 +6,8 @@ This project involved data analysis and visualization of Netflix subscriptions f
 
 Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/ren.d.vila.licona/viz/NetflixRevenue_17301404943970/Dashboard).
 
+SQL queries can be found [here](https://github.com/rene-dl/Netflix_Revenue/blob/main/NetflixProject.sql).
+
 ![Image Alt](https://github.com/rene-dl/Netflix_Revenue/blob/main/NetflixDashboard.png?raw=true) 
 
 # Metrics and Dimensions
