@@ -1,4 +1,4 @@
-## Overview 📖
+## Overview
 
 Netflix, launched in 2007, is an american subscription video on demand over the top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages. 
 
@@ -11,14 +11,14 @@ SQL queries can be found [here](https://github.com/rene-dl/Netflix_Revenue/blob/
 ![Image Alt](https://github.com/rene-dl/Netflix_Revenue/blob/main/NetflixDashboard.png?raw=true) 
 
 
-## Metrics and Dimensions 📑
+## Metrics and Dimensions
 - **Suscription Type:** Basic, Standard or Premium.
 - **Country:** Australia, Brazil, Canada, France, Germany, Italy, Mexico, Spain, United Kingdom, United States.
 - **Age:** 25, 30, 35, 40, 45, 50.
 - **Device:** Laptop, Smart TV, Smartphone or Tablet.
 
 
-## Summary of Ideas 💡
+## Summary of Ideas
 
 ### Subscription Type
 - In May 2022, subscriptions for the basic plan began to rise significantly, reaching a peak in July. Afterward, they fluctuated, reaching their highest in October before dropping sharply.
@@ -34,7 +34,7 @@ SQL queries can be found [here](https://github.com/rene-dl/Netflix_Revenue/blob/
 - There does not appear to be a specific device preference among users, as all devices show nearly similar values.
 
 
-## Recommendations 🛠️
+## Recommendations
 
 - Investigate the reasons behind the significant increase in subscriptions from May to October 2022, followed by a sharp drop, to determine if this was due to product issues or market competition.
 
